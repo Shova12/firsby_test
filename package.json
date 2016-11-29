@@ -1,0 +1,9 @@
+{
+  "name": "AdnViewerBasic",
+  "version": "0.0.0",
+  "dependencies": {
+
+    "jasmine-node" : "*",
+    "frisby" : "*"
+  }
+}
